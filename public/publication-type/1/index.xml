@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | CI-Lab</title>
-    <link>https://ci-Lab.net/publication-type/1/</link>
-      <atom:link href="https://ci-Lab.net/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication-type/1/</link>
+      <atom:link href="http://localhost:1313/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ci-Lab.net/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>https://ci-Lab.net/publication-type/1/</link>
+      <link>http://localhost:1313/publication-type/1/</link>
     </image>
     
     <item>
       <title>optimizing Memory Efficiency of Graph Neural Networks on Edge Computing Platforms</title>
-      <link>https://ci-Lab.net/publication/rtas2021/</link>
+      <link>http://localhost:1313/publication/rtas2021/</link>
       <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://ci-Lab.net/publication/rtas2021/</guid>
+      <guid>http://localhost:1313/publication/rtas2021/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

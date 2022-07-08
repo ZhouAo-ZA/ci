@@ -4,8 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: CI-Lab # Website name
-baseURL: 'https://ci-Lab.net' # Website URL
-
+#baseURL: 'http://www.ci-lab.net/' # Website URL
+baseURL: "https://ZhouAo-ZA.github.io/"
+#relativeURLs = true
 ############################
 ## LANGUAGE
 ############################
