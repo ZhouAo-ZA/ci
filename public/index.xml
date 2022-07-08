@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CI-Lab</title>
+    <link>https://ci-Lab.net/</link>
+      <atom:link href="https://ci-Lab.net/index.xml" rel="self" type="application/rss+xml" />
+    <description>CI-Lab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ci-Lab.net/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>CI-Lab</title>
+      <link>https://ci-Lab.net/</link>
+    </image>
+    
+    <item>
+      <title>dnn-training-accelerator-comparison</title>
+      <link>https://ci-Lab.net/resources/dnn-training-accelerator-comparison/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ci-Lab.net/resources/dnn-training-accelerator-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Deep Learning Systems</title>
+      <link>https://ci-Lab.net/research/efficient-deep-learning-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ci-Lab.net/research/efficient-deep-learning-system/</guid>
+      <description>&lt;h2 id=&#34;relevant-publications&#34;&gt;Relevant publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;S2Engine: A Novel Systolic Architecture for Sparse Convolutional Neural Networks Jianlei Yang, Wenzhi Fu, Xingzhou Cheng, Xucheng Ye, Pengcheng Dai, Weisheng Zhao. accepted by IEEE Transactions on Computers (TC), 2021.&lt;/li&gt;
+&lt;li&gt;Accelerating CNN Training by Pruning Activation Gradients Xucheng Ye, Pengcheng Dai, Junyu Luo, Xin Guo, Yingjie Qi, Jianlei Yang, Yiran Chen. ECCV 2020&lt;/li&gt;
+&lt;li&gt;SparseTrain: Exploiting Dataflow Sparsity for Efficient Convolutional Neural Networks Training Pengcheng Dai, Jianlei Yang, Xucheng Ye, Xingzhou Cheng, Junyu Luo, Linghao Song, Yiran Chen and Weisheng Zhao. DAC 2020&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Graph Learning Systems</title>
+      <link>https://ci-Lab.net/research/deep-graph-learning-systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ci-Lab.net/research/deep-graph-learning-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>literature-on-graph-neural-networks-acceleratio</title>
+      <link>https://ci-Lab.net/resources/literature-on-graph-neural-networks-acceleratio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ci-Lab.net/resources/literature-on-graph-neural-networks-acceleratio/</guid>
+      <description>&lt;h2 id=&#34;relevant-publications&#34;&gt;Relevant publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;S2Engine: A Novel Systolic Architecture for Sparse Convolutional Neural Networks Jianlei Yang, Wenzhi Fu, Xingzhou Cheng, Xucheng Ye, Pengcheng Dai, Weisheng Zhao. accepted by IEEE Transactions on Computers (TC), 2021.&lt;/li&gt;
+&lt;li&gt;Accelerating CNN Training by Pruning Activation Gradients Xucheng Ye, Pengcheng Dai, Junyu Luo, Xin Guo, Yingjie Qi, Jianlei Yang, Yiran Chen. ECCV 2020&lt;/li&gt;
+&lt;li&gt;SparseTrain: Exploiting Dataflow Sparsity for Efficient Convolutional Neural Networks Training Pengcheng Dai, Jianlei Yang, Xucheng Ye, Xingzhou Cheng, Junyu Luo, Linghao Song, Yiran Chen and Weisheng Zhao. DAC 2020&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Event</title>
+      <link>https://ci-Lab.net/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://ci-Lab.net/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>optimizing Memory Efficiency of Graph Neural Networks on Edge Computing Platforms</title>
+      <link>https://ci-Lab.net/publication/rtas2021/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://ci-Lab.net/publication/rtas2021/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/pyg-team/pytorch_geometric/blob/master/torch_geometric/nn/conv/message_passing.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contribution to PyG&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ci-Lab.net/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ci-Lab.net/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ci-Lab.net/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ci-Lab.net/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ci-Lab.net/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ci-Lab.net/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One research paper is accepted by ACM/IEEE DAC 2022!</title>
+      <link>https://ci-Lab.net/post/22-2-01-dac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ci-Lab.net/post/22-2-01-dac/</guid>
+      <description>&lt;p&gt;Paper title: Eventor: An Efficient Event-Based Monocular Multi-View Stereo Accelerator on FPGA Platform.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One research paper is accepted by IEEE TCAD!</title>
+      <link>https://ci-Lab.net/post/22-3-01-tcad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ci-Lab.net/post/22-3-01-tcad/</guid>
+      <description>&lt;p&gt;Paper title: Accelerating Graph Connected Component Computation with Emerging Processing-In-Memory Architecture.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tour</title>
+      <link>https://ci-Lab.net/tour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ci-Lab.net/tour/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

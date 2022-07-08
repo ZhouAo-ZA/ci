@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ci-Lab.net/sitemap.xml

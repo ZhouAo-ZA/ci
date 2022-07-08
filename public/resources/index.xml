@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources | CI-Lab</title>
+    <link>https://ci-Lab.net/resources/</link>
+      <atom:link href="https://ci-Lab.net/resources/index.xml" rel="self" type="application/rss+xml" />
+    <description>Resources</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ci-Lab.net/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Resources</title>
+      <link>https://ci-Lab.net/resources/</link>
+    </image>
+    
+    <item>
+      <title>dnn-training-accelerator-comparison</title>
+      <link>https://ci-Lab.net/resources/dnn-training-accelerator-comparison/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ci-Lab.net/resources/dnn-training-accelerator-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>literature-on-graph-neural-networks-acceleratio</title>
+      <link>https://ci-Lab.net/resources/literature-on-graph-neural-networks-acceleratio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ci-Lab.net/resources/literature-on-graph-neural-networks-acceleratio/</guid>
+      <description>&lt;h2 id=&#34;relevant-publications&#34;&gt;Relevant publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;S2Engine: A Novel Systolic Architecture for Sparse Convolutional Neural Networks Jianlei Yang, Wenzhi Fu, Xingzhou Cheng, Xucheng Ye, Pengcheng Dai, Weisheng Zhao. accepted by IEEE Transactions on Computers (TC), 2021.&lt;/li&gt;
+&lt;li&gt;Accelerating CNN Training by Pruning Activation Gradients Xucheng Ye, Pengcheng Dai, Junyu Luo, Xin Guo, Yingjie Qi, Jianlei Yang, Yiran Chen. ECCV 2020&lt;/li&gt;
+&lt;li&gt;SparseTrain: Exploiting Dataflow Sparsity for Efficient Convolutional Neural Networks Training Pengcheng Dai, Jianlei Yang, Xucheng Ye, Xingzhou Cheng, Junyu Luo, Linghao Song, Yiran Chen and Weisheng Zhao. DAC 2020&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
